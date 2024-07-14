@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning web development, specifically the MERN Stack.
 
-📫 You can reach me at: prasadhp@outlook.in
+📫 You can reach me at: itsprasadhp@gmail.com
 
 ⚡ About Me:
    I have a background in Mechanical Engineering and have previously worked in the field of designing. I tried out Retail Banking and realized that it wasn't my calling.  However, I later discovered that my passion lies in building things and solving problems, which led me to explore coding. So I decided to pursue my interest in coding. Currently, I'm on a journey of self-exploration while learning to code and build things.
