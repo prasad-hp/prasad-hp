@@ -1,13 +1,78 @@
-# 💫 About Me:
-## 👋 Hi, I'm Prasad H P — Data Analyst | Storyteller with Data<br><br>🔍 Passionate about uncovering insights from data and transforming them into actionable business decisions. I specialize in using tools like **Power BI**, **Excel**, and **SQL** to analyze trends, visualize data, and drive efficiency.<br><br>---<br><br>## 🧠 About Me<br><br>- 🎓 Background in Mechanical Engineering and Banking<br>- 📊 Skilled in data visualization, dashboard creation, and KPI tracking<br>- 🛠️ Tools: Power BI, Excel, SQL, Python (Pandas)<br>- 📍 Based in Bengaluru | 🌍 Open to remote opportunities<br><br>---<br><br>## 🚀 Projects<br><br>| Project | Description | Tools |<br> **Sales Dashboard** | Power BI dashboard analyzing product performance across regions, tracking KPIs like revenue, profit, and return rate. | Power BI, DAX, Excel |<br>| **Retail Sales Report** | Built dynamic dashboards to track sales and inventory levels for a retail client. | Excel, Power BI |<br><br>➡️ Explore more projects in my [Repositories](https://github.com/prasad-hp?tab=repositories)<br><br>---<br><br>## 📫 Let's Connect- 📧 Email: itsprasadhp@gmail.com<br>- 💼 LinkedIn: [linkedin.com/in/prasadhp](https://linkedin.com/in/prasadhp)<br><br>---<br><br><br>
+# Hi there! 👋 I'm a Data Analyst
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prasadhp) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:itsprasadhp@gmail.com) 
+## 🚀 About Me
+Data Analyst with a unique background spanning **Retail Banking** and **Mechanical Engineering**. I'm passionate about transforming raw data into actionable insights that drive business decisions. Currently dedicated to growing my expertise in data science and machine learning.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=prasad-hp&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=prasad-hp&theme=transparent&hide_border=false)<br/>
+## 🛠️ Technical Skills
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Programming & Analytics
+- **Languages**: SQL, Python
+- **Python Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn
+- **Databases**: PostgreSQL
+- **Cloud**: AWS EC2
+
+### Business Intelligence & Visualization
+- **Microsoft Power BI** (DAX, Power Query)
+- **Microsoft Excel** (Advanced formulas: VLOOKUP, XLOOKUP, INDEX MATCH)
+- **Google Sheets**
+
+### Development Tools
+- **Git** | **VS Code** | **Jupyter Notebook**
+
+### Core Competencies
+- 📊 Exploratory Data Analysis (EDA)
+- 🔄 Data Transformation & ETL
+- 📈 Data Visualization & Dashboarding
+- 🤖 Machine Learning
+- 📋 Business Reporting & Analytics
+
+## 💼 Professional Experience
+
+**Banking & Finance** (2023-2024)
+- Processed 100+ loan applications monthly with regulatory compliance
+- Automated Excel workflows, reducing processing time by 50%
+- Maintained 90%+ customer satisfaction through data-driven service improvements
+
+**Product Engineering** (2020-2021)
+- Led fiber optic design projects for Aerospace & Defense sectors
+- Optimized project delivery timelines by 15% using Kaizen methodology
+- Coordinated cross-functional teams and improved manufacturing processes
+
+## 🎯 Featured Projects
+
+### 📊 Sales Performance Dashboard
+**Power BI | DAX | Excel**
+- Built interactive dashboard for multinational supermarket chain (USA, Mexico, Canada)
+- Created dynamic KPI tracking with real-time variance analysis
+- Implemented geographic visualizations and performance matrices
+- Enhanced decision-making through actionable retail analytics
+
+### 🎯 Advertisement Click Prediction Model
+**Python | Scikit-Learn | Machine Learning**
+- Developed logistic regression model with **96.7% accuracy**
+- Achieved **97% precision** and **96% recall** on 1,000-user dataset
+- Identified key behavioral predictors for targeted advertising
+- Generated cost-efficiency insights for ad spend optimization
+
+### 🏅 Winter Olympics Data Analysis
+**SQL | PostgreSQL | Excel**
+- Analyzed athlete performance and medal distribution patterns
+- Executed 10+ complex SQL queries with window functions and joins
+- Conducted efficiency analysis comparing medal-to-participation ratios
+- Delivered demographic insights for strategic sports planning
+
+## 📈 What I'm Currently Working On
+- Advanced machine learning techniques
+- Cloud-based data engineering solutions
+- Expanding expertise in big data technologies
+
+## 🎓 Education
+**Bachelor's in Mechanical Engineering**  
+MVJ College of Engineering, Bengaluru (2016-2020)
+
+## 📫 Let's Connect!
+I'm always interested in discussing data analytics, sharing insights, and exploring collaboration opportunities!
+
+---
+
+⭐ *Feel free to explore my repositories and don't hesitate to reach out for data discussions!*
